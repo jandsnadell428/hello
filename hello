@@ -1,3 +1,4 @@
 #!/bin/bash
 echo hello
 echo hello >> hello.txt
+//If you are looking here, this was really stupid
